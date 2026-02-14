@@ -1,4 +1,3 @@
-.env
 /node_modules
 /dist
 /build
@@ -7,3 +6,4 @@
 /temp
 
 
+config.bat
